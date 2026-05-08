@@ -16,3 +16,4 @@ override.tf.json
 # Sensitive variable files
 *.tfvars.json
 secrets.tfvars
+.tfvars
